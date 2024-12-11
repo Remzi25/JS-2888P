@@ -1,0 +1,23 @@
+body{
+    background-color: chocolate;
+}
+
+
+.card{
+    margin: 20px;
+    background-color: rgb(213, 19, 48);
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+#homeButton{
+font-size: 50px;
+}
+
+#postButton{
+    font-size: 25px;
+}
+
+#postRow{
+    justify-content: center;
+}
